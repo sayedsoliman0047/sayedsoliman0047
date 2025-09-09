@@ -47,8 +47,6 @@ An interactive sales dashboard built entirely in Microsoft Excel featuring:
 - 📌 Manual layout design from scratch
 
 🔗 [GitHub Repo](https://github.com/sayedsoliman0047?tab=repositories)  
-🔗 [NovyPro Version](https://www.novypro.com/project-link)  
-🔗 [Maven Portfolio](https://app.mavenanalytics.io/project-link)
 
 ---
 
