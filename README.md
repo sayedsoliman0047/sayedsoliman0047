@@ -1,86 +1,142 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/elsayed-soliman-0478b128a" target="_blank">Elsayed Abdelhamed</a> 👋</h1>
+# Hi there, I'm Elsayed Abdelhamed 👋  
 
-<p align="center">
-  🎓 Undergraduate Mechatronics Engineer | 📊 Aspiring Data Analyst | ⚙️ Industrial Automation Enthusiast
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="eng.sayed2047@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/elsayed-soliman-0478b128a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.novypro.com/profile/elsayedabdelhamed" target="_blank">
-    <img src="https://img.shields.io/badge/NovyPro-Portfolio-blue?style=for-the-badge" />
-  </a>
-  <a href="https://app.mavenanalytics.io/profile/elsayedabdelhamed" target="_blank">
-    <img src="https://img.shields.io/badge/Maven-Analytics%20Portfolio-blue?style=for-the-badge" />
-  </a>
-</p>
+🎓 Mechatronics Engineering Student  
+⚙️ Industrial Automation Engineer (PLC & Control Systems)  
+📊 Aspiring Data Analyst  
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+I'm a Mechatronics Engineering student at Zagazig University with hands-on experience in **industrial automation, PLC systems, and electrical distribution**.
 
-Hi, I'm **Elsayed Abdelhamed**, a Mechatronics Engineering undergraduate passionate about **industrial automation** and **data analytics**.
-
-After exploring systems engineering and automation, I started teaching myself data analysis — and discovered a new passion for turning raw data into powerful insights.
-
-I'm currently on a journey to become a full-stack data analyst by learning:
-- ✅ Excel & VBA (Completed)
-- 🟡 SQL (In Progress)
-- 🔜 Power BI
-- 🔜 Python
+I’m passionate about applying control systems in real industrial environments, and recently I started expanding into **data analysis** to turn engineering data into actionable insights.
 
 ---
 
-### 🚀 Featured Project: Excel Sales Dashboard
-
-An interactive sales dashboard built entirely in Microsoft Excel featuring:
-
-- 📌 VBA Macros for automation
-- 📌 Option Buttons (Form Controls) for interactivity
-- 📌 Linked text & sheets for better navigation
-- 📌 Manual layout design from scratch
-
-🔗 [GitHub Repo](https://github.com/sayedsoliman0047?tab=repositories)  
+## 🎯 Career Objective
+Motivated Mechatronics Engineer seeking opportunities in **industrial automation and control systems**, where I can apply PLC programming, electrical systems knowledge, and real-world engineering practices.
 
 ---
 
-### 🧰 Tools & Technologies
+## 🎓 Education
+- **Faculty of Engineering, Zagazig University**  
+  Mechatronics Engineering Department (2021 – Present)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- **Sharkya STEM School**  
+  (2018 – 2021)
 
 ---
 
-### 📚 Learning Roadmap
+## 🛠️ Technical Skills
 
-- ✅ Excel Dashboards + VBA (2 months self-learning)
-- 🔄 SQL (Now learning joins, filtering, queries)
-- ⏭️ Power BI (Data modeling + dashboards)
-- ⏭️ Python (Data cleaning, analysis & automation)
+### ⚙️ Industrial Automation & Control
+- PLC Programming (Siemens, Schneider, Delta)  
+- Siemens TIA Portal & Factory I/O  
+- Classical Control (Relays, Contactors, Timers, Sensors)  
+- Motor Control & VFD Systems  
+- Circuit Simulation (CADe_SIMU, EKTS)  
+
+### 💻 Software & Tools
+- SolidWorks (3D Design)  
+- EPLAN (Electrical Design)  
+- Microsoft Office (Excel, Word, PowerPoint)  
+- Power BI & Excel (Data Analysis)  
 
 ---
 
-### 📬 Let’s Connect
-
-I'm always happy to connect with fellow learners, engineers, or data enthusiasts.
-
-Feel free to explore my dashboards, send me feedback, or just say hi!
+## 🏭 Industrial Exposure
+- Observed cable manufacturing processes (stranding, insulation, testing)  
+- Exposure to sheet metal production & CNC machining  
+- Observed industrial automation systems and control rooms  
+- Basic understanding of LED assembly and testing  
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=MADE%20BY&message=Elsayed%20Abdelhamed&color=blue" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=green" />
-</p>
+## ⚡ Experience
+
+### Electrical Field Experience
+- Assisted in electrical power distribution systems  
+- Worked with distribution boards and panels  
+- Cable routing and load distribution  
+- Interpreted and applied electrical drawings on-site  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Smart Automatic Car Wash System (Graduation Project)
+- PLC-based automated washing system  
+- Sequential control (wash, brush, rinse, dry)  
+- Integrated sensors & actuators  
+- Mechanical design using SolidWorks  
+
+### 🔹 PLC Automation Projects
+- Built multiple automation systems using **TIA Portal & Factory I/O**  
+- Implemented sensor-based control logic  
+- Developed motor control and sequential systems  
+
+### 🔹 Arduino Projects
+- Voice-Controlled Arduino Car  
+- Mobile Robotic Arm  
+
+---
+
+## 🎓 Internships
+
+### 🔹 HA Consulting Group – Industrial Automation Training
+- PLC programming using Siemens TIA Portal  
+- Motor control systems (relays, contactors)  
+- Sensor-based automation  
+
+### 🔹 Elsewedy Cables Factory
+- Observed full cable manufacturing process  
+- Exposure to production and quality control  
+
+### 🔹 El Sewedy Industrial Group (EIG)
+- Sheet metal & CNC processes  
+- Laser cutting basics  
+- Industrial automation systems & control rooms  
+
+---
+
+## 📜 Certifications
+- Industrial Training – Elsewedy Cables  
+- Industrial Training – EIG  
+- Industrial Automation Course – HA Consulting  
+- ISEF Certificate  
+
+---
+
+## 🧠 Soft Skills
+- Problem Solving  
+- Teamwork  
+- Communication  
+- Time Management  
+
+---
+
+## 📊 Data Analysis Journey
+- ✅ Excel & VBA  
+- 🔄 SQL (In Progress)  
+- ⏭️ Power BI  
+- ⏭️ Python  
+
+---
+
+## 📬 Contact Me
+- 📧 Email: sayed.soliman.2240@gmail.com  
+- 📍 Location: Zagazig, Egypt  
+- 📞 Phone: 01008520290  
+
+- 💻 GitHub: https://github.com/sayedsoliman0047  
+- 🔗 LinkedIn: https://linkedin.com/in/elsayed-soliman-0478b128a  
+
+---
+
+## 🤝 Let's Connect
+I'm always open to:
+- Internship opportunities  
+- Collaboration on automation or data projects  
+- Networking with engineers and data analysts  
+
+Feel free to explore my repositories or reach out 🚀  
